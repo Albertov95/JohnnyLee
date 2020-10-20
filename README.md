@@ -1,3 +1,5 @@
 # JohnnyLee
 
-Демо: https://albertov95.github.io/first/
+Сайт, разработанный для пициерии в Москве.
+
+Демо сайта: https://albertov95.github.io/first/
